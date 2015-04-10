@@ -33,7 +33,7 @@ import snapshop.image.Pixel;
 import snapshop.image.PixelImage;
 
 /**
- * SnapShopGUI is an GUI that displays images and allows a user to manipulate the images. 
+ * SnapShopGUI is a GUI that displays images and allows a user to manipulate the images. 
  * 
  * @author Brandon Soto
  * @version 2/2/2014
